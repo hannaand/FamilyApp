@@ -19,7 +19,7 @@ Install [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12) on Mac 
 
 ##Running the tests
 
-`npm install -g react-native-cli
+`npm install -g react-native-cli`
 
 ##Built With
 
