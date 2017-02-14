@@ -17,9 +17,9 @@ Watchman `brew install watchman`
 
 Install [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12) on Mac App Store.
 
-##Running the tests
+##The React Native CLI
 
-`npm install -g react-native-cli`
+`npm install -g react-native-cli
 
 ##Built With
 
